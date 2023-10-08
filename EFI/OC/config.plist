@@ -718,6 +718,12 @@
 				<string>VGA compatible controller</string>
 				<key>model</key>
 				<string>Intel HD Graphics 620</string>
+				<key>AAPL,ig-platform-id</key>
+				<data>AAAWWQ==</data>
+				<key>device-id</key>
+				<data>FlkAAA==</data>
+				<key>shikivga</key>
+				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x4,0x0)</key>
 			<dict>
@@ -732,15 +738,6 @@
 			<dict>
 				<key>layout-id</key>
 				<data>DAAAAA==</data>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
-			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>AAAWWQ==</data>
-				<key>device-id</key>
-				<data>FlkAAA==</data>
-				<key>shikivga</key>
-				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1731,7 +1728,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 -wegnoegpu</string>
+				<string>-v debug=0x100 keepsyms=1 -wegnoegpu  igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
