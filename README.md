@@ -27,10 +27,10 @@ Touchpad	| ELAN1200
 ## What's Working ?
 - QE/CI Intel UHD 620 ✅
 - Power Management ✅
-- Shutdown, Sleep, Restart ✅
+- Shutdown, Sleep & Restart ✅
 - Internal Speaker ✅
 - Earphone (audio & mic) ✅
-- Trackpad, Gesture ✅
+- Trackpad & Gesture ✅
 - Battery Indicator ✅
 - Camera ✅
 - HDMI (Video & Audio) ✅
