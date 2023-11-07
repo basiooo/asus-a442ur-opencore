@@ -17,6 +17,7 @@ Graphics	| Intel UHD Graphics 620 & Nvidia Geforce 930MX
 RAM	| Onboard 4GB + TEAM Elite 8GB DDR3 (2133 Mhz)
 Storage | Patriot Burst Elite 120GB SATA 3 & VGEN Platinum 512GB SATA 3
 Wi-Fi / Bluetooth	| Atheros QCA9377 replace with Intel 8260AC
+USB WIFI | TP-Link WN725N V3
 Ethernet | Realtek RTL8168H 
 Card Reader	| Realtek USB Based Card Reader
 Webcam	| ASUS UVC Camera
@@ -35,7 +36,8 @@ Touchpad	| ELAN1200
 - Camera ✅
 - HDMI (Video & Audio) ✅
 - Ethernet ✅
-- WIFI & Bluetooth (intel 8260AC) ✅
+- Bluetooth (intel 8260AC) ✅
+- WIFI (TP-Link WN725N V3) ✅
 - Brightness ✅
 - FN keys ✅
 - USB Ports ✅
@@ -44,5 +46,5 @@ Touchpad	| ELAN1200
 ## Not Working ?
 - Nvidia 930mx ❌
 - Internal Mic ❌
-- Card Reader ❌
+- Built-in WIFI (intel 8260AC) is disabled because it sometimes cannot connect to the SSID. ❌
 - Etc...
